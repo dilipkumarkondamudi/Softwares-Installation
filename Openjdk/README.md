@@ -2,7 +2,7 @@
 
 ## Installatins
 
-### 1. Openjdk
+## 1. Openjdk
 ### Step-1: 
 sudo apt update
 
@@ -18,7 +18,7 @@ Example: sudo apt install openjdk-17-jdk
 
 Verification: java -version
 
-### 2. Maven
+## 2. Maven
 ### Step-1
 sudo apt update
 ### Step-2
